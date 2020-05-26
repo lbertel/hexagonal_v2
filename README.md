@@ -1,2 +1,2 @@
-# hexagonal_v2
+# hexagonal
 hexagonal architecture
